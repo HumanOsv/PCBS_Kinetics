@@ -1,2 +1,4 @@
-# pre-Catalytic Binding Sites Kinetics (pCBS Kinetics)
+# pCBS Kinetics
+
+pre-Catalytic Binding Sites Kinetics (pCBS Kinetics)
 
