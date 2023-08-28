@@ -9,15 +9,15 @@
 
 ## Click here to open the notebook in Google Colab:
 
-  * ### 0 sites. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+  * ### 0 sites. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HIP-of9qylyX9nOh0IadWcfdKx2IVHvG?usp=drive_link)
 
-  * ### 1 sites. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb) 
+  * ### 1 sites. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18TL7aWrDRhy1o94Hjy6JR4FnKx2cjVHW?usp=drive_link) 
 
-  * ### 2 sites. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+  * ### 2 sites. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vka_vxeCYq-p-d_pir_tl9_xCefy8dzY?ouid=107074601872966684097&usp=drive_link)
 
-  * ### 3 sites. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+  * ### 3 sites. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zVKiN89Sx4y2PrHot1E546u4_lzmGSWk?usp=drive_link)
 
-  * ### 4 sites. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+  * ### 4 sites. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14eHMnSMxbFnk1iJmtWhDhnLUMPCw96OK?usp=drive_link)
 
-  * ### 5 sites. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+  * ### 5 sites. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13qvWwwEkBcuWKeCtCihjjWtmkN31KNwU?ouid=107074601872966684097&usp=drive_link)
 
